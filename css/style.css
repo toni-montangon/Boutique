@@ -54,15 +54,35 @@ body {
     align-items: center;
   }
 
-  .logo-img {
-    width: 500px; /* Augmente la largeur du logo */
-    max-width: none; /* Désactive la limite de largeur par défaut */
-    height: auto; /* Conserve les proportions */
+  .footer-section {
+    background-color: #006767; /* Nouveau fond vert/bleu foncé */
+    color: white; /* Texte en blanc pour le contraste */
+  }
+  
+  .footer-title {
+    font-weight: bold;
+    margin-bottom: 1rem;
+    color: white;
+  }
+  
+  .footer-link {
+    color: #cccccc;
+    text-decoration: none;
+    display: block;
+    margin: 0.3rem 0;
+  }
+  
+  .footer-link:hover {
+    color: white;
+    text-decoration: underline;
+  }
+  
+  .footer-label {
+    font-size: 0.9rem;
+    color: white;
   }
 
-  nav.custom-header .logo-img {
-    width: 500px !important; /* Force l'application de la règle */
-    height: auto; /* Conserve les proportions */
+  .footer-icon {
+    width: 300px; /* Augmente la largeur de l'icône */
+    height: 300px; /* Conserve les proportions */
   }
-
-
