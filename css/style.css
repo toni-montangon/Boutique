@@ -55,8 +55,14 @@ body {
   }
 
   .logo-img {
-    max-width: 100%; /* Empêche le dépassement */
-    height: auto; /* Garde les proportions */
-    width: 50px; /* Ajuste la taille du logo selon tes besoins */
+    width: 500px; /* Augmente la largeur du logo */
+    max-width: none; /* Désactive la limite de largeur par défaut */
+    height: auto; /* Conserve les proportions */
   }
+
+  nav.custom-header .logo-img {
+    width: 500px !important; /* Force l'application de la règle */
+    height: auto; /* Conserve les proportions */
+  }
+
 
