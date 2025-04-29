@@ -54,7 +54,7 @@ Génération automatique de numéros de commande
 📦 Livrables attendus
 Projet déployé sur Plesk dans un dossier "boutique-en-ligne"
 
-Code source sur GitHub : https://github.com/prenom-nom/boutique-en-ligne
+
 
 Fichiers attendus :
 
