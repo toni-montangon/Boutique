@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Header Final</title>
+  <title>Header</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
 </head>
@@ -29,7 +29,7 @@
 
     <!-- Centre absolu : Logo -->
     <div class="logo-center">
-      <img src="assets\paneral.png" alt="Logo" class="logo-img">
+      <img src="assets\paneral.png" width="85" height="85" alt="Logo" class="logo-img">
     </div>
 
     <!-- Partie droite : Panier -->
@@ -67,9 +67,41 @@
   <h1 class="mt-5 pt-5">Contenu de la page</h1>
 </div>
 
+
+<!-- Footer -->
+<footer class="footer-section text-center py-5">
+  <div class="container">
+    <div class="row">
+      <!-- Collections -->
+      <div class="col-md-4">
+        <h5 class="footer-title">Collections</h5>
+        <ul class="list-unstyled">
+          <li><a href="#" class="footer-link">Collections n°1</a></li>
+          <li><a href="#" class="footer-link">Collections n°2</a></li>
+          <li><a href="#" class="footer-link">Collections n°3</a></li>
+        </ul>
+      </div>
+
+      <!-- Logo et citation -->
+      <div class="col-md-4">
+        <h5 class="footer-title">Citation</h5>
+        <img src="assets\paneral.png" alt="Paneral" class="footer-icon my-2 w-25 h-auto">
+        <div class="footer-label">Porter une montre, c’est porter un rappel constant que le temps s’écoule… et que chaque seconde compte.</div>
+      </div>
+
+      <!-- Assistance -->
+      <div class="col-md-4">
+        <h5 class="footer-title">Assistance</h5>
+        <ul class="list-unstyled">
+          <li><a href="#" class="footer-link">Nous contacter</a></li>
+          <li><a href="#" class="footer-link">Mon compte</a></li>
+          <li><a href="#" class="footer-link">Guide des tailles</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
-
-
-
