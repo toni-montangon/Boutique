@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "collection": "Luminor Homme",
+      "model": "Due",
+      "gender": "Homme",
+      "name": "Paneral Luminor Due 44mm",
+      "price": 3500,
+      "description": "Montre masculine au design fin, boîtier acier 44mm, cadran bleu, Mécanique à remontage automatique, calibre P.980, 12½ lignes, 4,2mm d’épaisseur, 23 rubis, 28 800 alternances/heure. Dispositif antichoc Incabloc®. Réserve de marche de 3 jours, un barillet. 177 composants.",
+      "color": "Bleu clair soleillé",
+      "strap_material": "Acier satiné",
+      "case_diameter": 44,
+      "images": [
+        "assets/Luminor H/Due/Due.jpg",
+        "assets/Luminor H/Due/Due-1.jpg",
+        "assets/Luminor H/Due/Due-2.jpg",
+        "assets/Luminor H/Due/Due-ar.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "collection": "Luminor Homme",
+      "model": "Luna",
+      "gender": "Homme",
+      "name": "Paneral Luminor Luna 38mm",
+      "price": 3900,
+      "description": "Montre robuste avec boîtier acier brossé 38mm, cadran bleu, Mécanique à remontage automatique, calibre P.900/MP, 12½ lignes, 4,2 mm d’épaisseur, 23 rubis, 28 800 alternances/heure. Dispositif antichoc Incabloc®. Réserve de marche de 3 jours, un barillet. 171 composants.",
+      "color": "Bleu satiné soleil",
+      "strap_material": "Alligator Bleu",
+      "case_diameter": 38,
+      "images": [
+        "assets/Luminor H/Luna/Luna.jpg",
+        "assets/Luminor H/Luna/Luna-1.jpg",
+        "assets/Luminor H/Luna/Luna-2.jpg",
+        "assets/Luminor H/Luna/Luna-ar.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "collection": "Luminor Homme",
+      "model": "Prada",
+      "gender": "Homme",
+      "name": "Paneral Luminor Prada 44mm",
+      "price": 4300,
+      "description": "Édition spéciale Prada avec boîtier titane sablé 44mm, bracelet nylon, Mécanique à remontage automatique, calibre P.900, 12½ lignes, 4,2 mm d’épaisseur, 23 rubis, 28 800 alternances/heure. Dispositif antichoc Incabloc®. Réserve de marche de 3 jours, un barillet. 171 composants.",
+      "color": "Bleu satiné soleil",
+      "strap_material": "Nylon",
+      "case_diameter": 44,
+      "images": [
+        "assets/Luminor H/Prada/Prada.jpg",
+        "assets/Luminor H/Prada/Prada-1.jpg",
+        "assets/Luminor H/Prada/Prada-2.jpg",
+        "assets/Luminor H/Prada/Prada-ar.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "collection": "Luminor Femme",
+      "model": "Due",
+      "gender": "Femme",
+      "name": "Paneral Luminor Due 38mm",
+      "price": 3700,
+      "description": "Montre élégante et fine, boîtier acier poli 38mm, cadran blanc, Mécanique à remontage automatique, calibre P.900, 12½ lignes, 4,2 mm d’épaisseur, 23 rubis, 28 800 alternances/heure. Dispositif antichoc Incabloc®. Réserve de marche de 3 jours, un barillet. 171 composants.",
+      "color": "Blanc",
+      "strap_material": "Nylon rose",
+      "case_diameter": 38,
+      "images": [
+        "assets/Luminor F/Due/Due.jpg",
+        "assets/Luminor F/Due/Due-1.jpg",
+        "assets/Luminor F/Due/Due-2.jpg",
+        "assets/Luminor F/Due/Due-ar.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "collection": "Luminor Femme",
+      "model": "Luna Rossa",
+      "gender": "Femme",
+      "name": "Paneral Luminor Luna Rossa 38mm",
+      "price": 4200,
+      "description": "Montre inspirée de la Luna Rossa avec boîtier en acier poli de 38mm, cadran blanc. Mécanique à remontage automatique, calibre P.900, 12½ lignes, 4,2 mm d’épaisseur, 23 rubis, 28 800 alternances/heure. Dispositif antichoc Incabloc®. Réserve de marche de 3 jours, un barillet. 171 composants.",
+      "color": "Blanc et rouge",
+      "strap_material": "Nylon blanc et rouge",
+      "case_diameter": 38,
+      "images": [
+        "assets/Luminor F/Luna Rossa/Luna.jpg",
+        "assets/Luminor F/Luna Rossa/Luna-1.jpg",
+        "assets/Luminor F/Luna Rossa/Luna-2.jpg",
+        "assets/Luminor F/Luna Rossa/Luna-ar.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "collection": "Luminor Femme",
+      "model": "Prada",
+      "gender": "Femme",
+      "name": "Paneral Luminor Prada 38mm",
+      "price": 3400,
+      "description": "Édition spéciale Prada pour femme avec boîtier acier poli 38mm, cadran blanc. Mécanique à remontage automatique, calibre P.900, 12½ lignes, 4,2 mm d’épaisseur, 23 rubis, 28 800 alternances/heure. Dispositif antichoc Incabloc®. Réserve de marche de 3 jours, un barillet. 171 composants.",
+      "color": "Blanc",
+      "strap_material": "Nylon rose pâle",
+      "case_diameter": 38,
+      "images": [
+        "assets/Luminor F/Prada/Prada.jpg",
+        "assets/Luminor F/Prada/Prada-1.jpg",
+        "assets/Luminor F/Prada/Prada-2.jpg",
+        "assets/Luminor F/Prada/Prada-ar.jpg"
+      ]
+    }
+  ]
+  
