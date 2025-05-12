@@ -1,6 +1,6 @@
 body {
-    background-color: #ffffff;
-  }
+  background-color: #ffffff;
+}
   
   .custom-header {
     position: fixed;
@@ -14,7 +14,8 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    height: 100px;
+    height: 100px; /* Hauteur du header */
+    margin-bottom: 150px; /* Ajoute un espace sous le header */
   }
   
   .search-bar {
