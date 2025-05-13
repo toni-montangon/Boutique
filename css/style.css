@@ -1,6 +1,12 @@
 body {
   background-color: #ffffff;
 }
+
+/* Assure que le body occupe toute la hauteur de la fenêtre */
+html, body {
+  height: 100%;
+  margin: 0;
+}
   
   .custom-header {
     position: fixed;
@@ -58,6 +64,7 @@ body {
   .footer-section {
     background-color: #006767; /* Nouveau fond vert/bleu foncé */
     color: white; /* Texte en blanc pour le contraste */
+    margin-top: auto; /* Place le footer en bas si le contenu est insuffisant */
   }
   
   .footer-title {
@@ -86,4 +93,16 @@ body {
   .footer-icon {
     width: 300px; /* Augmente la largeur de l'icône */
     height: 300px; /* Conserve les proportions */
+  }
+
+  .promo-banner {
+    position: relative;
+    z-index: 1029; /* Place la bannière au-dessus de la grande bannière */
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+
+  .promo-banner marquee {
+    font-size: 1rem;
+    font-weight: 500;
   }
