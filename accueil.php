@@ -70,7 +70,7 @@
 
 <!-- Bannière principale -->
 <div class="banner-container mt-3">
-  <img src="https://bollwerk-joailliers.com/wp-content/uploads/2023/08/Banniere-Panerai-Luminor-scaled.webp" alt="Bannière Boutique" class="img-fluid w-100">
+  <img src="assets\bannière.webp" alt="Bannière Boutique" class="img-fluid w-100">
   <div class="banner-text">
     <h1 class="text-white">Bienvenue dans notre boutique</h1>
     <p class="text-white">Découvrez nos montres élégantes et intemporelles</p>
