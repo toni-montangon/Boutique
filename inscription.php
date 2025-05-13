@@ -78,6 +78,15 @@
       <label for="password" class="form-label">Mot de passe</label>
       <input type="password" class="form-control" id="password" name="password" placeholder="Entrez votre mot de passe" required>
     </div>
+    <div class="mb-3">
+      <label for="adresse" class="form-label">Adresse</label>
+      <textarea class="form-control" id="adresse" name="adresse" rows="3" placeholder="Entrez votre adresse" required></textarea>
+    </div>
+    <div class="mb-3">
+      <label for="telephone" class="form-label">Numéro de téléphone</label>
+      <input type="tel" class="form-control" id="telephone" name="telephone" placeholder="Entrez votre numéro de téléphone" pattern="[0-9]{10}" required>
+      <small class="form-text text-muted">Format : 10 chiffres (exemple : 0612345678)</small>
+    </div>
     <button type="submit" class="btn btn-primary w-100">S'inscrire</button>
   </form>
 </div>
