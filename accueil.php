@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Header</title>
+  <title>Accueil</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
 </head>
@@ -59,14 +59,35 @@
       </ul>
     </div>
   </div>
-
 </nav>
+
+<!-- Bannière défilante -->
+<div class="promo-banner bg-warning text-dark text-center py-2">
+  <marquee behavior="scroll" direction="left">
+    🎉 Promotion exceptionnelle : 20% de réduction sur toute la boutique ! Profitez-en maintenant ! 🎉
+  </marquee>
+</div>
+
+<!-- Bannière principale -->
+<div class="banner-container mt-3">
+  <img src="https://bollwerk-joailliers.com/wp-content/uploads/2023/08/Banniere-Panerai-Luminor-scaled.webp" alt="Bannière Boutique" class="img-fluid w-100">
+  <div class="banner-text">
+    <h1 class="text-white">Bienvenue dans notre boutique</h1>
+    <p class="text-white">Découvrez nos montres élégantes et intemporelles</p>
+  </div>
+</div>
+
+<!-- Bannière défilante -->
+<div class="promo-banner bg-dark text-white text-center py-2">
+  <marquee behavior="scroll" direction="left">
+    🎉 Promotion exceptionnelle : 20% de réduction sur toute la boutique ! Profitez-en maintenant ! 🎉
+  </marquee>
+</div>
 
 <!-- Contenu pour voir l'effet du header fixé -->
 <div style="height: 2000px; background-color: #ffffff;">
   <h1 class="mt-5 pt-5">Contenu de la page</h1>
 </div>
-
 
 <!-- Footer -->
 <footer class="footer-section text-center py-5">
