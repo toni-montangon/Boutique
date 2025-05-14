@@ -61,7 +61,7 @@
 <!-- Formulaire d'inscription -->
 <div class="container pt-5 mt-5 mb-5">
   <h1 class="text-center mb-4">Inscription</h1>
-  <form action="traitement_inscription.php" method="POST" class="mx-auto" style="max-width: 500px;">
+  <form action="src/utilisateur/traitement_inscription.php" method="POST" class="mx-auto" style="max-width: 500px;">
     <div class="mb-3">
       <label for="nom" class="form-label">Nom</label>
       <input type="text" class="form-control" id="nom" name="nom" placeholder="Entrez votre nom" required>
