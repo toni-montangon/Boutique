@@ -62,7 +62,7 @@
 <!-- Formulaire de connexion -->
 <div class="container pt-5 mt-5 mb-5">
   <h1 class="text-center mb-4">Connexion</h1>
-  <form action="traitement_connexion.php" method="POST" class="mx-auto" style="max-width: 500px;">
+  <form action="src/utilisateur/traitement_connexion.php" method="POST" class="mx-auto" style="max-width: 500px;">
     <div class="mb-3">
       <label for="email" class="form-label">Adresse mail</label>
       <input type="email" class="form-control" id="email" name="email" placeholder="Entrez votre adresse mail" required>
