@@ -105,7 +105,6 @@
 
       <!-- Logo et citation -->
       <div class="col-md-4">
-        <h5 class="footer-title">Citation</h5>
         <img src="assets\paneral.png" alt="Paneral" class="footer-icon my-2 w-25 h-auto">
         <div class="footer-label">Porter une montre, c’est porter un rappel constant que le temps s’écoule… et que chaque seconde compte.</div>
       </div>
